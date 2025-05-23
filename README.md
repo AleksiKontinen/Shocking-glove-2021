@@ -11,4 +11,7 @@ Glove with "taser" and laser.
 ## conclution
 In the kilovolts hand works as a wire.
 
+## pic
+![ShockGlove2021](https://github.com/user-attachments/assets/c07ac8cd-916b-493c-b4c2-607a9420eb2c)
+
 
